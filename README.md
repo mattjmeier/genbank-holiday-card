@@ -10,7 +10,7 @@ The GenBank Holiday Editor allows you to input custom text and DNA sequences to 
 
 ## Rationale
 
-I built this as a highly over-engineered solution to making Christmas cards to match the [3D printed DNA molecules](https://makerworld.com/en/models/570981-dna-model-adenine-thymine-cytosine-guanine) I made for my lab.
+I built this as a highly over-engineered solution to making Christmas cards to match the [3D printed DNA molecules](https://makerworld.com/en/models/570981-dna-model-adenine-thymine-cytosine-guanine) I made for my lab. I did not create that model, only printed it.
 
 ![3D Printed DNA GIF](dna.gif)
 
