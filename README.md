@@ -25,7 +25,7 @@ The nucleotide sequences represent their initials (using mass spec ambiguity cod
 - **Custom Metadata**:
   - Change the "Product" name (e.g., "Holiday Joy Protein").
   - Add custom `/note` qualifiers.
-  - Auto-generated "festive" journal references (e.g., Nature: Holiday Edition).
+  - "Festive" references throughout the page (e.g., JOURNAL Nature: Holiday Edition).
 - **High-Res Export:** One-click download of the record as a PNG image, perfect for emailing or printing.
 
 ## Usage
