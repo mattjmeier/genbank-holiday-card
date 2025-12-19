@@ -2,6 +2,8 @@
 
 A festive tool for generating holiday greetings in the format of an NCBI Nucleotide record.
 
+[Live Demo](https://mattjmeier.github.io/genbank-holiday-card/)
+
 ## Overview
 
 Are you tired of sending normal Christmas cards? Do you want to wish your lab partner a "Happy New Year" using a custom Open Reading Frame?
@@ -25,16 +27,16 @@ The nucleotide sequences represent their initials (using mass spec ambiguity cod
 - **Custom Metadata**:
   - Change the "Product" name (e.g., "Holiday Joy Protein").
   - Add custom `/note` qualifiers.
-  - "Festive" references throughout the page (e.g., JOURNAL Nature: Holiday Edition).
+  - "Festive" references throughout the page (e.g., `JOURNAL Nature: Holiday Edition`, Links to *Santa's Workshop Repository*).
 - **High-Res Export:** One-click download of the record as a PNG image, perfect for emailing or printing.
 
 ## Usage
 
 1. **Recipient:** Enter the name of the person receiving the card.  
-1. **Authors:** Add yourself and your "collaborators" (e.g., Claus, S.).  
+1. **Authors:** Add yourself and your "collaborators" (e.g., *Claus, S.*).  
 1. **DNA Sequence:** Paste a nucleotide sequence.  
 1. **Customize:** Add a note (e.g., "Wishing you high-fidelity PCR results").  
-1. **Export:** Click "Download High-Res PNG" to save your card.  
+1. **Export:** Click **"Download High-Res PNG"** to save your card.  
 
 ## Example
 
@@ -44,7 +46,7 @@ Here is the default export as a PNG file:
 
 ## Technical Details
 
-**Dependencies**: Uses html-to-image for DOM capture and export.
+**Dependencies**: Uses `html-to-image` for DOM capture and export.
 **Logic**: Contains a client-side codon table to perform real-time translation of DNA strings to Protein strings.
 
 ## Disclaimer
