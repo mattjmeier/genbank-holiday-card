@@ -1,0 +1,1 @@
+# A holiday greeting in the style of a GenBank entry
