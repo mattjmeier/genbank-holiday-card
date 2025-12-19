@@ -30,11 +30,11 @@ The nucleotide sequences represent their initials (using mass spec ambiguity cod
 
 ## Usage
 
-**1. Recipient:** Enter the name of the person receiving the card.  
-**1. Authors:** Add yourself and your "collaborators" (e.g., Claus, S.).  
-**1. DNA Sequence:** Paste a nucleotide sequence.  
-**1. Customize:** Add a note (e.g., "Wishing you high-fidelity PCR results").  
-**1. Export:** Click "Download High-Res PNG" to save your card.  
+1. **Recipient:** Enter the name of the person receiving the card.  
+1. **Authors:** Add yourself and your "collaborators" (e.g., Claus, S.).  
+1. **DNA Sequence:** Paste a nucleotide sequence.  
+1. **Customize:** Add a note (e.g., "Wishing you high-fidelity PCR results").  
+1. **Export:** Click "Download High-Res PNG" to save your card.  
 
 ## Example
 
