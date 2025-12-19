@@ -46,7 +46,7 @@ Here is the default export as a PNG file:
 
 ## Technical Details
 
-**Dependencies**: Uses `html-to-image` for DOM capture and export.
+**Dependencies**: Uses `html-to-image` for DOM capture and export.  
 **Logic**: Contains a client-side codon table to perform real-time translation of DNA strings to Protein strings.
 
 ## Disclaimer
